@@ -1,7 +1,7 @@
 {
   "name": "wxxcx",
   "version": "0.0.1",
-  "description": "美食菜单小程序",
+  "description": "微信小程序模板",
   "main": "app.js",
   "scripts": {
     "dev": "gulp watch",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/linyajing/meishimeike-weapp.git"
+    "url": ""
   },
-  "author": "linyajing",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/linyajing/meishimeike-weapp/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/linyajing/meishimeike-weapp#readme",
+  "homepage": "",
   "devDependencies": {
     "copy-dir": "^0.3.0",
     "del": "^3.0.0",
