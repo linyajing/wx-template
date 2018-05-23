@@ -16,7 +16,6 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "",
   "devDependencies": {
     "copy-dir": "^0.3.0",
     "del": "^3.0.0",
